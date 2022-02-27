@@ -1,9 +1,12 @@
-Obidient Cat https://play.picoctf.org/practice/challenge/147
-Go to the Webshell on the right side of the webpage.
-Inside the picoCTF Webshell:
-$ wget https://mercury.picoctf.net/static/0e428b2db9788d31189329bed089ce98/flag
-ls
-cat flag
+- Obidient Cat https://play.picoctf.org/practice/challenge/147
+
+- Go to the Webshell on the right side of the webpage
+
+- Inside the picoCTF Webshell:
+- $ wget https://mercury.picoctf.net/static/0e428b2db9788d31189329bed089ce98/flag
+
+- $ ls
+- $ cat flag
 
 And you'll see the flag! 
 
