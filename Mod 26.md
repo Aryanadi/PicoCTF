@@ -1,7 +1,5 @@
 Link https://youtu.be/ia0xrTQccoM
 
-Retrieving Flag in PicoCTF https://picoctf.org/
-
 Mod 26 https://play.picoctf.org/practice/challenge/144
 
 Copy the hash plain text cvpbPGS{arkg_gvzr_V'yy_gel_2_ebhaqf_bs_ebg13_hyLicInt}, paste it in the cyberchef https://gchq.github.io/CyberChef/#recipe=ROT13(true,true,false,13)&input=Y3ZwYlBHU3thcmtnX2d2enJfVid5eV9nZWxfMl9lYmhhcWZfYnNfZWJnMTNfaHlMaWNJbnR9
