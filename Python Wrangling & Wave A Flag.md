@@ -1,5 +1,4 @@
-# Link https://youtu.be/F22Qbp1Su0g
-Retrieving Flag in PicoCTF https://picoctf.org/
+Link https://youtu.be/F22Qbp1Su0g
 
 Python Wrangling: 
 
